@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.navclass{
+    display: flex;
+    width: 1161px;
+    height: 45px;
+    padding-right:80px;
+    padding-left:102px;
+    padding-top: 14px;
+    padding-bottom: 12px;
+}
+.navheading{
+    text-decoration: none;
+    padding: 0px 14px;
+    align-self: center;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.nava{
+    color: #777;
+}
+img[alt="logo"]{
+    width: 8.5vw;
+    height: 7.7vh;
+}
+.navlist {
+    width: 575px;
+    height: 20px;
+    padding-left: 8px;
+    align-self: center;
+}
+.lista{
+    color: #8f8e8e;
+    font-size: 14px;
+    font-weight: 200;
+    padding: 12px;
+    display: inline;
+    text-decoration: none;
+}
+
+
+
+
+/* MAIN */
+.welcome{
+    color: white;
+    background-color: rgb(139, 31, 31);
+    height: 16.2vh;
+}
+.text{
+    position: relative;
+    width: 500px;
+    left: 7.5vw;
+    top: 5vh;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    color: white;
+}
+h2{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 23px;
+    position: relative;
+    bottom: 2vh;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    color: #646464;
+    width: 1139px;
+    height: 1090px;
+    padding-right:7.5vw;
+    padding-left:7.5vw;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+}
+a{
+    text-decoration: none;
+    color: #7694a7;
+}
+.contentli{
+    position: relative;
+    top: 1.48vh;
+    left: 3vw;
+}
+img[alt="group"]{
+    width: 1170px;
+    /* height: 1050px; */
+}
+
+
+.foot{
+    width: 98.74vw;
+    height: 29vh;
+    background-color: #171f24;
+    color: #ffffff;
+    font-size: 12.5px;
+    line-height: 20px;
+}
+.footin{
+    width: 86.6vw;
+    height: 21.1vh;
+    position: relative;
+    left: 6.8vw;
+    line-height: 20px;
+    top: 3.5vh;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    
+}
+h3{
+    position: relative;
+    bottom: 1.2vh;
+}
+.box1{
+    display: inline-block;
+    line-height: 20px;
+    width: 19vw;
+    height: 18vh;
+    position: relative;
+    bottom: 1.6vh;
+    left: 1vw;
+}
+.box2{
+    display: inline-block;
+    width: 21vw;
+    height: 18.5vh; 
+    position: relative;
+    bottom: 3.3vh;
+    left: 6vw;
+}
+.box3{
+    display: inline-block;
+    width: 21vw;
+    height: 18.5vh; 
+    position: relative;
+    bottom: 3.3vh;
+    left: 7vw;
+}
+.box4{
+    display: inline-block;
+    width: 21.52vw;
+    height: 24vh; 
+    position: relative;
+    top: 1vh;
+    left: 5vw;
+
+}
+
+.footli{
+    position: relative;
+    left: 1vw;
+    line-height: 23px;
+}
+
+.fi{
+    color: white;
+}

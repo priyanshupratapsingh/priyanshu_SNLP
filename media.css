@@ -1,0 +1,142 @@
+@media (max-width:1280px){
+    img[alt="group"]{
+        width: 1100px;
+    }
+}
+@media (max-width:1240px){
+    img[alt="group"]{
+        width: 1000px;
+    }
+    .content{
+        height: 1000px;
+        padding-right:4vw;
+        padding-left:4vw;
+        padding-top: 30px;
+    }
+    .navclass{
+        display: flex;
+        width: 1161px;
+        height: 45px;
+        padding-right:40px;
+        padding-left:50px;
+        padding-top: 14px;
+        padding-bottom: 12px;
+    }
+}
+@media (max-width:1193px){
+    .content{
+        height: 1000px;
+        padding-left: 1vw;
+        padding-right: 1vw;
+        padding-top: 30px;
+    }
+    .navclass{
+        display: flex;
+        width: 1161px;
+        height: 45px;
+        padding-right:1vw;
+        padding-left:1vw;
+        padding-top: 14px;
+        padding-bottom: 12px;
+    }
+}
+@media (max-width:1154px){
+    .content{
+        width: auto;
+    }
+    .navlist{
+        display: none;
+    }
+}
+@media (max-width:1025px){
+    .content{
+        width: auto;
+    }
+    img[alt="group"]{
+        width: 730px;
+    }
+}
+@media (max-width:745px){
+    img[alt="group"]{
+        width: 600px;
+    }
+    .content{
+        height: 900px;
+    }
+    .foot{
+        display: flex;
+        flex-direction: column;
+        width: 98.74vw;
+        height: 50vh;
+    }
+    .footin{
+        width: 86.6vw;
+        height: 30vh;
+    }
+    .box1{
+        /* display: inline-block; */
+        line-height: 20px;
+        width: 19vw;
+        height: 18vh;
+        /* position: relative;
+        bottom: 1.6vh;
+        left: 1vw; */
+    }
+    .box2{
+        /* display: inline-block; */
+        width: 21vw;
+        height: 18.5vh; 
+        /* position: relative;
+        bottom: 3.3vh;
+        left: 6vw; */
+    }
+    .box3{
+        /* display: inline-block; */
+        width: 21vw;
+        height: 18.5vh; 
+        /* position: relative;
+        bottom: 3.3vh;
+        left: 7vw; */
+    }
+    .box4{
+        /* display: inline-block; */
+        width: 21.52vw;
+        height: 24vh; 
+        /* position: relative;
+        top: 1vh;
+        left: 5vw; */
+    
+    }
+    
+}
+
+@media (max-width:620px){
+    .content{
+        width: auto;
+    }
+    img[alt="group"]{
+        width: 480px;
+    }
+}
+@media (max-width:494px){
+    .content{
+        width: auto;
+    }
+    img[alt="group"]{
+        width: 450px;
+    }
+}
+@media (max-width:450px){
+    img[alt="group"]{
+        width: 300px;
+    }
+}
+@media (max-width:380px){
+    .content{
+        padding-top: 20px;
+        height: 1010px;
+    }
+    img[alt="group"]{
+        width: 300px;
+    }
+}
